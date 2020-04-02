@@ -11,3 +11,6 @@ In app:
   
   - adaptive styling;
   - pokemons will sorted when they loaded (as i understand from task);
+  
+  Please, wisit this site of pokemons:
+  https://ihoradev.github.io/Pokemons/
