@@ -1,5 +1,5 @@
 # Pokemons
-Test Task (Pokemons)
+Pokemons
 
 Using: React, Redux, Grid, Bootstrap
 
@@ -10,7 +10,7 @@ In app:
   - click on full info to close;
   
   - adaptive styling;
-  - pokemons will sorted when they loaded (as i understand from task);
+  - pokemons will sorted when they loaded;
   
   Please, wisit this site of pokemons:
   https://ihoradev.github.io/Pokemons/
