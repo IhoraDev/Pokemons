@@ -1,9 +1,14 @@
 # Pokemons
 Pokemons
 
-Using: React, Redux, Grid, Bootstrap
+Using: 
+```
+React, Redux, Grid, Bootstrap
+```
 
+```
 In the project directory, run: npm install -> nmp start;
+```
 
 In app: 
   - click on pokemon to open full info;
@@ -13,4 +18,6 @@ In app:
   - pokemons will sorted when they loaded;
   
   Please, wisit this site of pokemons:
+  ```
   https://ihoradev.github.io/Pokemons/
+```
